@@ -142,7 +142,5 @@
     <string name="send_delay_20seconds">20 seconds</string>
     <string name="send_delay_30seconds">30 seconds</string>
     <string name="sent_countdown">Message delivery countdown</string>
-=======
->>>>>>> parent of 59810fb... Bring back Blacklist support
 
 </resources>
